@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruQTffAKvmHGnO757JEpvK+R9veXQTaDdwarH5u11xIf5XuWB3GgUC52bHoVANzal8W1cFxAYvo7D2Yc1IuD1Q==",
+  "success": true,
+  "projectFilePath": "/home/evan/Projects/csharp/projeto2/projeto2.csproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

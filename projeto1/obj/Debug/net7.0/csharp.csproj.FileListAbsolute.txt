@@ -1,0 +1,15 @@
+/home/evan/Projects/csharp/bin/Debug/net7.0/csharp
+/home/evan/Projects/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/evan/Projects/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/evan/Projects/csharp/bin/Debug/net7.0/csharp.dll
+/home/evan/Projects/csharp/bin/Debug/net7.0/csharp.pdb
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.dll
+/home/evan/Projects/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.pdb
+/home/evan/Projects/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/evan/Projects/csharp/obj/Debug/net7.0/ref/csharp.dll

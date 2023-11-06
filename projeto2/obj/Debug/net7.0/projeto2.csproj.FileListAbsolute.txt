@@ -1,0 +1,15 @@
+/home/evan/Projects/csharp/projeto2/bin/Debug/net7.0/projeto2
+/home/evan/Projects/csharp/projeto2/bin/Debug/net7.0/projeto2.deps.json
+/home/evan/Projects/csharp/projeto2/bin/Debug/net7.0/projeto2.runtimeconfig.json
+/home/evan/Projects/csharp/projeto2/bin/Debug/net7.0/projeto2.dll
+/home/evan/Projects/csharp/projeto2/bin/Debug/net7.0/projeto2.pdb
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.csproj.AssemblyReference.cache
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.AssemblyInfoInputs.cache
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.AssemblyInfo.cs
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.csproj.CoreCompileInputs.cache
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.dll
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/refint/projeto2.dll
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.pdb
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/projeto2.genruntimeconfig.cache
+/home/evan/Projects/csharp/projeto2/obj/Debug/net7.0/ref/projeto2.dll
