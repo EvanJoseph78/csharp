@@ -1,0 +1,15 @@
+/home/evan/Projects/csharp/projeto4-explorando/bin/Debug/net7.0/projeto4-explorando
+/home/evan/Projects/csharp/projeto4-explorando/bin/Debug/net7.0/projeto4-explorando.deps.json
+/home/evan/Projects/csharp/projeto4-explorando/bin/Debug/net7.0/projeto4-explorando.runtimeconfig.json
+/home/evan/Projects/csharp/projeto4-explorando/bin/Debug/net7.0/projeto4-explorando.dll
+/home/evan/Projects/csharp/projeto4-explorando/bin/Debug/net7.0/projeto4-explorando.pdb
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.csproj.AssemblyReference.cache
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.AssemblyInfoInputs.cache
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.AssemblyInfo.cs
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.csproj.CoreCompileInputs.cache
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.dll
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/refint/projeto4-explorando.dll
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.pdb
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/projeto4-explorando.genruntimeconfig.cache
+/home/evan/Projects/csharp/projeto4-explorando/obj/Debug/net7.0/ref/projeto4-explorando.dll
