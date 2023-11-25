@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Hc0uKyiJmmun1r/ZRFKSUfR0XFAyOOkFByGDC/WYM+ZItBXxQ6eJRDQfaL76ZIMG4eq1S0uEBYCQsm6Ms17XQ==",
+  "success": true,
+  "projectFilePath": "/home/evan/projetos/csharp/vetores/vetores.csproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
