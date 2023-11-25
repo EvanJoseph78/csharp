@@ -7,4 +7,10 @@ Console.WriteLine("Hello, World!");
 // Console.WriteLine(listaNomes[0]);
 //
 
+// DateTime data = DateTime.Now;
+
+// DateTime data1 = DateTime.Now;
+// Console.WriteLine(data - data1);
 //
+//
+// Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
