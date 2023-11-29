@@ -1,0 +1,15 @@
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/bin/Debug/net7.0/projeto5_excecoes_e_colecoes
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/bin/Debug/net7.0/projeto5_excecoes_e_colecoes.deps.json
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/bin/Debug/net7.0/projeto5_excecoes_e_colecoes.runtimeconfig.json
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/bin/Debug/net7.0/projeto5_excecoes_e_colecoes.dll
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/bin/Debug/net7.0/projeto5_excecoes_e_colecoes.pdb
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.csproj.AssemblyReference.cache
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.AssemblyInfoInputs.cache
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.AssemblyInfo.cs
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.csproj.CoreCompileInputs.cache
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.dll
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/refint/projeto5_excecoes_e_colecoes.dll
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.pdb
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/projeto5_excecoes_e_colecoes.genruntimeconfig.cache
+/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/obj/Debug/net7.0/ref/projeto5_excecoes_e_colecoes.dll

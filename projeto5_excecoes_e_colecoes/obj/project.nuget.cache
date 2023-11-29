@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMOLE91JzLUCJWaFiv7jEISclsubZWWhvYbc34BcYSzakDikVM+W1fR8NNCBhe/8eLX0S4jB6+OaP6bO+oxu+Q==",
+  "success": true,
+  "projectFilePath": "/home/evan/projetos/csharp/projeto5_excecoes_e_colecoes/projeto5_excecoes_e_colecoes.csproj",
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
